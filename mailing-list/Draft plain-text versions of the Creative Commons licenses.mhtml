@@ -1,0 +1,850 @@
+From: <Saved by Blink>
+Subject: Draft plain-text versions of the Creative Commons licenses
+Date: Thu, 17 Feb 2016 22:18:40 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_ACF3_E68062CE.A8399414"
+
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://lists.ibiblio.org/pipermail/cc-licenses/2005-March/001877.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head><meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+   <title> Draft plain-text versions of the Creative Commons licenses
+   </title>
+   <link rel=3D"Index" href=3D"http://lists.ibiblio.org/pipermail/cc-licens=
+es/2005-March/index.html">
+   <link rel=3D"made" href=3D"mailto:cc-licenses%40lists.ibiblio.org?Subjec=
+t=3DRe:%20Draft%20plain-text%20versions%20of%20the%20Creative%20Commons%20l=
+icenses&amp;In-Reply-To=3D%3C1111259769.4325.29.camel%40bad.dynu.ca%3E">
+   <meta name=3D"robots" content=3D"index,nofollow">
+  =20
+   <link rel=3D"Previous" href=3D"http://lists.ibiblio.org/pipermail/cc-lic=
+enses/2005-March/001862.html">
+   <link rel=3D"Next" href=3D"http://lists.ibiblio.org/pipermail/cc-license=
+s/2005-March/001901.html">
+
+ <style type=3D"text/css"></style><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/skin/socialwi=
+dgets.css"></head>
+ <body bgcolor=3D"#ffffff">
+   <h1>Draft plain-text versions of the Creative Commons licenses</h1>
+    <b>Evan Prodromou</b>=20
+    <a href=3D"mailto:cc-licenses%40lists.ibiblio.org?Subject=3DRe:%20Draft=
+%20plain-text%20versions%20of%20the%20Creative%20Commons%20licenses&amp;In-=
+Reply-To=3D%3C1111259769.4325.29.camel%40bad.dynu.ca%3E" title=3D"Draft pla=
+in-text versions of the Creative Commons licenses">evan at bad.dynu.ca
+       </a><br>
+    <i>Sat Mar 19 14:16:09 EST 2005</i>
+    <p></p><ul>
+        <li>Previous message: <a href=3D"http://lists.ibiblio.org/pipermail=
+/cc-licenses/2005-March/001862.html">Revolutionary:  Bank Compliant InkJet =
+Ink!
+</a></li>
+        <li>Next message: <a href=3D"http://lists.ibiblio.org/pipermail/cc-=
+licenses/2005-March/001901.html">Draft plain-text versions of the Creative =
+Commons licenses
+</a></li>
+         <li> <b>Messages sorted by:</b>=20
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/date.html#1877">[ date ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/thread.html#1877">[ thread ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/subject.html#1877">[ subject ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/author.html#1877">[ author ]</a>
+         </li>
+       </ul>
+    <hr> =20
+<!--beginarticle-->
+<pre>So, after about the 10th time I'd crabbed on this list about the lack =
+of
+plain-text versions of the Creative Commons licenses, Mike L. pointed
+out that a volunteer should probably make candidate versions, which
+could then be modified. He then pointed out that that volunteer should
+probably be me.
+
+I've thus made some translations of the CCPL into plain text and made
+them available on my Web site for review:
+
+        <a href=3D"http://bad.dynu.ca/~evan/ccpl/">http://bad.dynu.ca/~evan=
+/ccpl/</a>
+
+I have left in the name "Creative Commons" because I'm doing this in the
+hopes that these (or some later version) get moved to
+creativecommons.org as "the" plain-text versions. I also believe that
+the plain-text versions are identical works to the HTML versions, merely
+with a change of medium. If there's any problem, I'd be happy to strip
+the Creative Commons trademark out of there until and if CC wants to use
+these versions.
+
+The conversion was done as follows:
+
+      * I downloaded each of the Creative Commons licenses and ran the
+        resulting HTML through html2text .
+      * I removed the alt text from the Creative Commons logo, and the
+        "back to license deed" text.
+      * I added blank lines between each paragraph, to simulate the
+        formatting used in the HTML versions.
+      * I added an underline to the word "License" to identify it as a
+        sub-heading.
+      * I added a similar sub-heading, "Creative Commons Notice", to the
+        trademark restrictions language at the end. The comment that
+        begins this section in the HTML says "BREAKOUT FOR CC NOTICE.
+        NOT A PART OF THE LICENSE" and the end of it says "END CC
+        NOTICE". I guessed that "CC NOTICE" would be best put into the
+        text as "Creative Commons Notice".
+
+Any other changes were by accident.
+
+Comments or criticisms welcome. It'd be interesting to see what we do
+next with this.
+
+~Evan
+
+--=20
+Evan Prodromou
+<a href=3D"http://lists.ibiblio.org/mailman/listinfo/cc-licenses">evan at b=
+ad.dynu.ca</a>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/attachments/=
+20050319/6fa7bfdf/attachment.html">http://lists.ibiblio.org/pipermail/cc-li=
+censes/attachments/20050319/6fa7bfdf/attachment.html</a>=20
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 2200 bytes
+Desc: not available
+Url : <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/attachments=
+/20050319/6fa7bfdf/attachment.bin">http://lists.ibiblio.org/pipermail/cc-li=
+censes/attachments/20050319/6fa7bfdf/attachment.bin</a>=20
+</pre>
+
+<!--endarticle-->
+    <hr>
+    <p></p><ul>
+        <!--threads-->
+	<li>Previous message: <a href=3D"http://lists.ibiblio.org/pipermail/cc-lic=
+enses/2005-March/001862.html">Revolutionary:  Bank Compliant InkJet Ink!
+</a></li>
+	<li>Next message: <a href=3D"http://lists.ibiblio.org/pipermail/cc-license=
+s/2005-March/001901.html">Draft plain-text versions of the Creative Commons=
+ licenses
+</a></li>
+         <li> <b>Messages sorted by:</b>=20
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/date.html#1877">[ date ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/thread.html#1877">[ thread ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/subject.html#1877">[ subject ]</a>
+              <a href=3D"http://lists.ibiblio.org/pipermail/cc-licenses/200=
+5-March/author.html#1877">[ author ]</a>
+         </li>
+       </ul>
+
+<hr>
+<a href=3D"http://lists.ibiblio.org/mailman/listinfo/cc-licenses">More info=
+rmation about the cc-licenses
+mailing list</a><br>
+
+<iframe id=3D"rdbIndicator" width=3D"100%" height=3D"270" border=3D"0" src=
+=3D"chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/indicator.html" sty=
+le=3D"display: none; border: 0; position: fixed; left: 0; top: 0; z-index: =
+2147483647"></iframe></body><div></div><div></div></html>
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://pkehgijcmpdhfbdbbnkijodmdjhbjlgp/skin/socialwidgets.css
+
+@charset "utf-8";
+
+.privacybadgerreplacementbutton { border: none !important; cursor: pointer =
+!important; height: auto !important; width: auto !important; }
+
+.privacybadgeroriginalbutton { border: none !important; height: 1.5em !impo=
+rtant; }
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/indicator.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+       =20
+        <title>Readability Activity Indicator</title>
+        <link href=3D"chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/c=
+ss/indicator.css" rel=3D"stylesheet">
+    </head>
+    <body>
+        <div class=3D"indicator hidden" data-action=3D"none">
+            <div class=3D"read-now">
+                <h1 class=3D"working">Cleaning up</h1>
+                <h1 class=3D"ready">Done</h1>
+            </div>
+
+            <div class=3D"read-later">
+                <h1 class=3D"working">Saving</h1>
+                <h1 class=3D"ready">Saved</h1>
+            </div>
+
+            <div class=3D"send-to-kindle">
+                <h1 class=3D"working">Sending</h1>
+                <h1 class=3D"ready">Sent</h1>
+            </div>
+
+            <div class=3D"error-msg">
+                <div class=3D"standard-error">
+                    <h1>
+                        We're having trouble
+                    </h1>
+                    <p>
+                        Looks like our server is having some issues at the =
+moment. You
+                        can either Try again now, or cancel and try again l=
+ater.
+                    </p>
+                    <p>
+                        We don't expect the issue to last long.
+                    </p>
+                    <div class=3D"controls">
+                        <button class=3D"cancel">Cancel</button>
+                        <button class=3D"confirm">Try again</button>
+                    </div>
+                </div>
+                <div class=3D"timeout-error">
+                    <h1>
+                        This is taking a while
+                    </h1>
+                    <p>
+                        This is taking a bit longer than normal.
+                    </p>
+                    <p>
+                        Do you want to keep trying, or cancel and try again=
+ later?
+                    </p>
+                    <div class=3D"controls">
+                        <button class=3D"cancel">Cancel</button>
+                        <button class=3D"confirm">Keep trying</button>
+                    </div>
+                </div>
+                <div class=3D"blacklist-error">
+                    <h1>Our apologies</h1>
+                    <p>
+                        Readability is unable to parse content for this sit=
+e.
+                    </p>
+                    <div class=3D"controls">
+                        <button class=3D"cancel">Cancel</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class=3D"root-url">
+                <h1>
+                    This page might not render as expected
+                </h1>
+                <p>
+                    Readability works best on individual articles, this loo=
+ks like a homepage to us.
+                </p>
+                <p>
+                    Do you want us to try to render it anyway?
+                </p>
+                <div class=3D"controls">
+                    <button class=3D"cancel">Cancel</button>
+                    <button class=3D"confirm">Yes, render it</button>
+                </div>
+            </div>
+
+            <div class=3D"loader"><b></b></div>
+        </div>
+
+       =20
+       =20
+   =20
+
+</body></html>
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/images/indicator-couch@2x.png
+
+iVBORw0KGgoAAAANSUhEUgAAAIwAAABoCAYAAAAjFRiqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAGCVJREFUeNrsXQtUlOW6/pkbDDDcBuQmSiomBy+ZUXmso207ba0V223l
+Vk8rO6uWnM46tSs72W530dylq45pddbeRm2PW7FdVsd7iB4VE0VBQwQUBQS5DjAz3GYGGG7neYfv
+p5FAZoa5wfzvWu+an2Hmn+9/v+d7b9/7fZ9Xb28v5+XlxdlK9P1RSJPAieA7wXGMx4NDwPIBn20E
+a8FV4HJwIbgAfBbczI1ysrbvvTwEMMHgJeCF4AXgaDvcswecC84AHwOfAHcKgBm9gPFhIFkBXgSW
+8f/o7u7mOjs7Ta/mTM8y8HlINiKRyMRisZiTSCQmlkqlA+VGmmgP+H/A5wXAjB7AhIJfAa9m16Y2
+dnR0cEaj0cQ9PT12+SECjkwm62czygF/zADUIwDGPQFDZueP4H8D+/Eg4YHi6HaSDH18fExM2odR
+Kfgt8DckKgEw7gEYMTTGCzAZG3AdRNqjra2Na29vt5smsUXz+Pr6ct7e3ryMLkDGL+DyggAY1wJm
+On5/B9o/h9qh1+tNQHEXrUc+j5+fHw+cXgD4MwD7D7g2CIBx8nNC+C9D+JvImSWQEFjc1QEnjePv
+7296RRtLurq6fgez9ZMAGOeQAr+ZijYnUWTT2trKoQNGRUQil8tNpgptNwLwLwHwnwuAcSDBgZ2E
+aOQw2juN/BTSKqONyEwpFAqTtgFo/gLQvEiRvgAYO1NnZ+dsCPkILsfpdDpT5DOaiXwbiqigJQ8C
+RMtd5deMScBAm8yFcNPxWwoyQWSKxgKRM0zAwfOcUqvVj4WHh+vdHTAidxeqwWCYTWCB+la0tLSM
+GbAwE8uRtoRZmh8aGnqwpKTE293b7NYaBgCZAnt/DiBRkmBH6USnxVEUnnMfrpdyTkzyjRkNA7CE
+QIg/QLOMabAQUZRHzwiwLIGv9pE7t9UtAbN+/XoRws/duIwjQfIjYSwzmVqK+qRS6Zr29vaVgkmy
+giCwt+AQbiAH11XpfVc6wvDZDFqt9h6lUnlViJKGN0X3BgQEnMFok4yWhJy9iSX3LuXl5d07Z86c
+TncCjFuZpLS0NG8I62+IHiSkose6GRqKaaoDkdNd8fHxbwom6TYEf2W9XC5/ZzRmcO1NlBHG4DFq
+NJoZCLmvCyZpAJWXl8dOnDjxisFgkHua33I7fwaySMcgWtzroDDR2r6XuIWaA0G7vI+QUj5SAI8l
+oukPaJlf19TUPII/04WwmlFJSUkCRtHy0T4/5CjQBAcH/wmDyC36yuUahrRLc3Pza9AuIkGz/JLI
++UeYfQ8G1QKub2WCZ2uY48ePR/n5+S331BDaEqIVDmFhYWvcQcu4VMOQdqmvr/8PgMVbgMXttQwG
+1aKsrCxaeHfVlW1xKWITEhKkCoXiaUG7DE+QkWjy5MmrvVxst10KmNTU1PlisXi8AAeLAEMz2rQw
+T+aRJonssUqlWkaCEJxdCztLIonNyMi4F5enPVHDeAcEBCSN5bIFR/gycXFxv3Ol8+uyH96/f38C
+zNE4AQaWE2XA4fz+kyvNkksAQ44bRsrCsVRu6SySy+XxzzzzjNLTNIw0KChonmCObNIyktWrVz/g
+qmjJVYDxgWq9S+h+28xSeHj4/a7qO5dESbNmzVJ4e3tHCbPStpFMJpvK/Jg2j9AwycnJU2COxELX
+26iefXzuoChzVGgYdDSBjMwJeevTwRFgf4b2Bq4vdZ0JPscNsoUXhYQnT56cJvgvtpOvr2/MMJFS
+IPhX4AfA08DhrK87wDXgK+BTjDscAhh0MHnm/w5+DjzRgq9owFT5vxlcYfa++MCBAzfvvPPOBji+
+YUL3W0+1tbW0UZF0kH/NBr8GprVNPre5BWWMqfyziTY2wOtHGMgVFkW4wxUs4f8S+Bq/F4lE65gm
+MTlePLPP9N+D3w+OmBFpmU/B74L1+Bw9SDxo0aFDh16NjIwMFSBgOWVnZ1997LHHPtLr9cchd76T
+Q9EXmyHzZ/j+4Ptn4L59fN0wlYAO6CNaD7UB/2u3GTD4XyT4G/z/Qfqc+eaBFuRaTA2iVX10je8U
+d3Z2Pglnl0wWqdTEmTNn3pOenp4MTaMQoDA8FRUV3XzwwQe/0Ol0tHtnDmTa0NXVNQ+dvwcyNgUR
+fB9ZpC1+2UeXjUbjUvhIpVY7ve3t7XG4wTkCC8330DpgerXU9+ABxn+PcnVSqTSzra1tHv5dBy64
+fPnypddff/1bPKjg0AxDzc3N+hUrVqQCLIXMT2yBfH+DzqYtX6OoZoaq86xJhg7SRzMRgZ3H3zOt
+AozBYIjGF4/jcgI1YqTlBzzgQBROH4I6jcd1Gfjyrl27MqFlsgVI3J62bt16EBomD5f55LjSjhak
+WTDY5NYCZZg+UmJgHwdA4ywCzIULF/B56V4yG/bcopTf1RKvflB5B0pKSsgfukke+yuvvPK/AGm7
+AIvBqbS0tHLTpk3HWHRTrdFowjDwvkPfyOy5Qyjdh9VVh/r7+++trKyUDwsYOKNvA7mJjtqqlDUo
+MiYm5s/kBIPLb968WYBQ+7wAjcFp586dtGKA1ibR9vVGdOZfKWp1RNE8DxqYpwSlUrmRXJ0hnV50
+3CR05BUqmXRkFpZ+j/ay1Wq1D4eGhlJtx+SFCxcmHT58eJMAj1upqampZcKECcnoRDrboFqtVj8e
+EhKyl3wWR+ayWB91qVSqGVFRUUWDaRiv4ODgPwAo3o5O2dODks308/OjUJ2Mb/3x48fz6urqVAJE
+bqUCEMBC4TMdkEFVd29bE3yMpI/gF0nwe3801zL9gNmyZUugr6/vSmfV1xIo4Vg/kJubOwN/0p4e
+tfBrrgsQuZXy8/PzWFTZlpeXl4hRf7ez5uBY8flT27dvDx0IGK+kpKSlQJWvM4VBDYqIiPgXljhq
+rKioKBYgcitdunSJoqIWGvTh4eErnV1DRBZn/vz5T/BahgeMCEj6Zxc0hibSHuL60txtLS0tlQJE
+bqWLFy+WUFoMLIMFWODsGX7CBMwSHRskNgeMHGGaS+pTIIQEru9Qqw69Xq8WIHKLH9ELF6aeZKNQ
+KPzQR3e6oh1wHSiR52MOGB+8Ge2i/VB83n///VjKHcGHqfbUPWEGYwwgOvGNsmldb775Zizek7mi
+HQBqNBvU/YDxhjOlcNEo4hBaUzF4z/79+6t7hbqHfmptbdUw/45TKpXjXCUaiUTix7FyCh4wUlf2
+E/wnKnPo1Wg0Bp1O1yxApY/g05GJprDVC36Ey2b1GTak5oChM4dcVsKPSIlf/WiEkLQCVPqosbGx
+ngFGPG7cuGhXtQOObxfv9ErM1F9TYGCgS5Yv4HcjGXiNaAeNqkmOHC1arba5urpaU1lZ2VhVVdWK
+61aVStXW0NDQgf8Zu7q6eliSTBIUFCRDOOsDUMtjYmICxo8fH4jX4Ojo6FC5XO7jSLmgLSoeMJBR
+lAtNY2O/eeIjXLVaXesqwMAkRTIEd2FU1dnz3kajsfP69evVCE8rs7KyVGlpabUAh4H5Bjx3m3Ev
+Yy/GIsZiJi8Js+fS2bNnBz3yyCOR999/f/SsWbNioqKiwuy5+gMAruYBgygpwlWAqa+vp7LOHnPA
+dBcXF1+dMmXKdBeF1uNYWwgwqpEKHX6QITs7u+TAgQPFu3btKscIMbBcBs/0t569trFIxMjA08P9
+fLCnmLGUgcSHRQuU4PTLzc31BZew930mTZoUsGrVqskPP/zwFIDpDglVJo2AysrKqhhgJD4+PhGu
+WoNO2GCDqR8wxu+///7M4sWLn3JFg6DaI3jAAM3Vttyjvb294/Tp09dSU1MLv/322wqYFR4UreAm
+ru+Y4Cb2d5sZQMw1DA8WXsPwoBlMw3gz4FDBdRA4+MaNG4HvvvtuJTg7LCwsMDk5Oe7JJ59MiI+P
+j7Wls8+fP1/J2ucLGblsWfHu3btPM3n1z1bTA88pLy//G9Sq050rdLY6ICCA5pTa3njjjSffe++9
+Ly39LvyP+q+++ip38+bNheSbmAGEfKF6BhQdAwlpFyNGjATalHI/VMxOvkEY63h/BgS+DqSJAYkH
+XC3XV2JQBpk1MPB4m2keSk0o2f1C2T0Vc+bMGbd27drZMF8zoU0t8ns6OzuNMNX3cX3VdcHQkoXe
+3t4hzu6bm6C4uLh/xSUdOdjMaxgSpnrPnj3HXn755Wed3Sio2+CQkBApOryFjaphCX5J1aeffpqV
+kpJyjYGEoivyf1TsmuZf9JmZmeJ58+bdg+t/BN/N9S2RieVGuCYLA41AVMgEmQPQZ0ILXGfA8WNa
+h0ATCf9p3LJly6qCg4N/xGC4G9eJuFYME1JrGcC7MIhlAEuQK7QLNDbV4mhYW/pjbBJejEwmW1Fa
+WloNR7HXmYzR1AvNkshG6116vb5jqM8CKDXPPvvs3/G597i+A83pIIf54KlsZMupvBDP9Rr4BNjY
+OwhRHTExQkYTw4QNyfxniOk7t6Ey8J/xncc+//xzX6ZxSINRan0R17dE5w1ojk2fffbZCfhrhqGe
+89q1awUsWvR6++237yMZObtfrl69Wo7fXwaO5gZMPpLdbqK6C3Tc191OnoUk0M6YMSOGqf/2wXIx
+TU1NrRs2bDg0bdq0L3fs2EHVeSTQLPAZcO7Zs2fVaPYy3CsD5o1GOi2beIhPSvIV9VS+QcVH9ErM
+V9mbL50ZyPxnzL/P34P/Lht4pLleEIvFh1avXl2F9/4LMqXnIi2Yw/VtBJSNAVH04osvpickJPzl
+0KFDF3oGmVHE8zYwh5ebPn36eGcnVvF8nbA2X+GSNH4z8+tuUcvkJFbBYcz+8ssv0509XxEeHt6f
+vKOUOP8+UXp6+k8Q2jYAJgOyLWRAIS6ANpFBmBvnzp1bKRKJ/hvv3TsQIAM61W5t5sFuDiqz3wkG
+r5ZKpedo9QXa8ei6desqmAkjkOfU1NQULl26dG9SUtIOuAoq83vjueqYwysODQ2NcXZ/fPzxxwdI
+7sxn61/DbQ4YGt2E6mKg/+DevXuznIloaIUoPhfDRhdlOluef/75rx5//PHvET1RATStLqAluIX4
+nxgd8Rm+R04hrcj0HaLjnKopzYFq1oa7oHV2Inq6hveXAjg0anMZ6C8dPXr0J2ibL3bu3Hma1zYa
+jaaWD6kVCoVTk3ZoxwmYwaOEBRY8dA8GGI45NlTJXwTH7FuEUz86S+iIHqJZ1NEJwNTl5+dfT0xM
+TEHjCSB5TLiX4cRq0abXg4KCqM70WVrUTzIe0EFuQeYAZu2aAOD89Z133vkJGp8ccFowdoEGAUxX
+4XPPPXd41apVqdCwLYj++KSdBLJxCmDQzp4tW7akoR37WXRW0e/sDsj0cma+TDOzuTI4l17Z2dl1
+69evX4wO8ncwYCL5XAzU4Q8YdVkQeBNrCzlfWgj5fgh8O64n8x0yGrYM4ReMmUZo3zLieIlE8n94
+7+/QnL+PjIy8yiI77ddff62Dw3sdWuUKn+VlmXCHUl1dnfbVV189hEj5J+YfXmeR5i0jcKilstRx
+lCj6B3A8wroJH3744bwlS5bMQXjnkP3V1Gr1ZQjuV0xIU8hKsRC5Cg/R8cQTT2yAoP+T2jxagDIU
+8UtU2fLUegDnGVo8xvyeO9grma0bFKKrVKoMpVLpkCw8fCUdQJqDYCdLp9ORv3KFDVJ+ppyzBDA8
+aELYaKZVcNFwvpRr1qyZvnDhwimIVqLtOfmGyKEWWmw2S5DxOQod1HMARtj3/PpudzM7IwUOLYqn
+UYzn+mD58uXvIujwZXmcdpZfCoWJzoMMwu2l7TA4m65cuVKFCK1427Zt19rb2xuZc0tapcwsYclZ
+Axg+LU6Nj2AhYwwDEb3nA0ctcOrUqYqUlJSk4RJRFtj7TplMFsuyqdSgXlrfjfeOon0TxxJQBpKZ
+ttkHE/V0REQEH5XQA9O66XL8f0TzUg0NDU2Ixr4rLi7WAYB81lvHNEkl813rWbQ8pPoeLtvZzVBO
+qLvI8gjkhF4mNBaCEE3lpaWlXbSD0KTJyclhfF6to6MjAWA5O9bBYu6L4VmXQIsfQwQYQDIgQSBi
+HTdSsBAdPHgwOycnpwhgIXNTxKI0WhyXya4rGIBua+stSY/3snyAltnUS+yHTnJ9x7HkbN68+Qd7
+JPvuu+8+yjcQiWBPf41XpaXbi4x24s0tTNRcmPq3mBy8ECmOeGt9aKgu9FEaG+zkK2Ww63ymWZoG
+81dsBYw5cLqYxlGxyIVsXmEeKDc3N3+kDwanN4q1SQob2+Np+/jyoEFE3c18SJE9Ku2gWXLZVEMR
+C+UraW8ZsH4oX8UegBkKQITO6h07dhwb6YMFBgZOYIKSFhUVeeQWmwSagoIC8i9oEpMq/kasYeBj
+0gQi5XVaeFNns+tgh2ck0KjhbZ/ByKgdyY38/f35yjvuxo0bHlvbW1JS0sT6hnIwIwJMWVlZZWpq
+KmXINZaaHYcChqGVEjzVCNMyRpi84wupuiG0Bk8FDCKZWmYqKMs7onB637595GtSiWWrPZbw2Guf
+XipxrP/ggw+OIhRut3XCiwnHBJiTJ0/We+oCtmPHjlUwbSCBAxxu630MBoOe+oSFyx326Gi7AIbs
+IvkyMEllmZmZNm8/xsoQySR1q9Vqwp7HnXhOz1xaWtrKA4at2bKJMjIyshCim6Ig1kecu2gYjiV8
+aj/55JM0WzUfNEwo0zD0cJ0YITpPAwwt92HaoJtpGJsWsFGhFwulVaxvOHcDDD2gNi0tLQ8Rjk37
+vEgkEvmiRYsCmK3tbGtra/VAwDSyvFfvU089FSQWi22afsnPz7966tQpqh2i2f1utwMM62Tq4Jo9
+e/bYfL5yUlJSDDvapUen0zV5GmDMK+0WLFhgc4S0e/fuo8zZtatZt/fhFLQUoWHTpk0ntFqtTZ09
+ceJEmq8iwHTDJHncOuuWlhYeMF6xsbETbLlHXV2deuvWrZTyV7M+cU/A8CG20WisOnr0qE0HWQYE
+BETzji9MksdpGLby01QHExQUZFOW98iRIz92d3ebanHtvRuGI46/oZlQ1caNG9O6bNgwz9/fn6+8
+625ubva4DYbYxpDkc0htqbTDYDVu2LAhjYXSdt/72O4HbJGDBReksaCg4PqFCxcuz507924rAcNX
+3nWTA+hpRxTfuHGjvzSTZGHt8587d+5iWVkZzRc12iuUdrSG4ZijVfvFF18csSEXE2GmYTSepmEu
+XrzYvwDflqKpbdu2kcxr7e3sOhow9MAaWj9UUVFRZSVgwnjA0DJYTwILLLgxIyODd3ppAb5V66lL
+SkrKvvnmG6rJ1XBWzkK7zCTxzi9UqWl+ad++fRkvvfTS05Z+F3ZbyQMGtrgIvIbrWz041omc03Lu
+1qSdVduvfPfddzRvRBqq1VFbvw17wJYF4Bj8xn2nt0crlcoF5eXl26BeLd4DODExcQpUM82nxHJ9
+a6FDPQQwlDeh6sUa+H6Tz5w5Y/G+xTDfrePHj0/W6/U/kkmy1H+xtu8ddqosNRiNadZoNOWnTp06
+/+ijjz5k6XdXrFgRDcCUMVtMUZc35xlEz2oq61i5cqVVSbuTJ0+eBVhokLU4wtl1OGAY0RyGitYZ
+LV68eIGlh3NPnjw5moGO5pI8bj6JtDO0hcWAoQVoGzdu/IGz87yRM51eXsuQ86Y9ceIEnbFQZOn3
+goODKdvryccUi0NCQixO2l26dKmACrxZKN09agHDiDREzZEjR85YATRfDwcMHcwqt/TDhw8fPs2c
+XYdrY2cAhuYyqLjF4nMEoJJ9nWAu3VrDiEQiP4s7USSqY6F0p8OR7HDXvy/E1kHFNlvqkXt7e9Oi
+OC8PBowXycBSeZFs8aJ3xi7qIicJoNPX19fiEkEIy9fDASOSyWQWpyHkcjlpcaccdOUswNB6XotT
+1VKp1N+ZbXNHDQMZWAwYlUrV4jQkO+l3erdv336DUt+WfLiurq7BwwEjqqmpsWiDa6PR2JGSklLO
+DdiWw5E+xoi/Pxxzffvazlq3bl0KHXHT1tbWPsgmhbQbefPZs2dpe7Lfkmm25N5jkenZp06duuT0
+6dM5tIi+Z5CdGA0GQ9u1a9cq1q5dS6fz0qaLUht/yzrVN9KpASs0Ge2JO4/r2zrEh71n/sP8SkrK
+7tKuTLT0ttVDNQw5/bQfDO0sSrP30kFkRdlcygzT9AGlLCq4YRbSj4ooyewBKey7wh4yaBAh8AKg
++RQKwT354HOSA83ykx/TyF5FA+RJ5p0qEmmDBK0zwOJMDWPKLXA/75btzf0yMcdrGD1LQBmdZpfd
+0OllA0rBwCIZxKfr5n7e48XgLMBwwgFoAlmtYQQSyO3yMAKNDfp/AQYAyeZeKDdSGaoAAAAASUVO
+RK5CYII=
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/css/indicator.css
+
+@charset "utf-8";
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquot=
+e, pre, a, abbr, acronym, address, del, dfn, em, img, q, small, strike, str=
+ong, sub, sup, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, lab=
+el, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside=
+, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu,=
+ nav, section, summary, time, mark, audio, video { margin: 0px; padding: 0p=
+x; border: 0px; font-style: inherit; font-variant: inherit; font-weight: in=
+herit; font-stretch: inherit; line-height: inherit; font-family: inherit; f=
+ont-size: 100%; vertical-align: baseline; }
+
+sub { font-size: 80%; vertical-align: sub; }
+
+sup { font-size: 80%; vertical-align: super; }
+
+small { font-size: 80%; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, =
+nav, section { display: block; }
+
+body { line-height: 1; }
+
+ol, ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+blockquote::before, blockquote::after, q::before, q::after { content: none;=
+ }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+i, em, mark { font-style: italic; }
+
+h1, h2, h3, h4, h5, h6, b, strong, mark { font-weight: 600; }
+
+.hidden { display: none; }
+
+mark { color: inherit; background-color: transparent; }
+
+.cancel, .confirm { border-width: 1px; border-style: solid; border-radius: =
+3px; box-shadow: rgba(255, 255, 255, 0.2) 0px 1px 0px inset; box-sizing: bo=
+rder-box; cursor: pointer; display: block; font-size: 1em; -webkit-font-smo=
+othing: antialiased; font-weight: 400; letter-spacing: 0.1em; line-height: =
+1; padding: 0.6em 0px 0.5em; text-align: center; text-transform: uppercase;=
+ width: 100%; }
+
+.working.cancel, .working.confirm { cursor: default; }
+
+.cancel { border-color: rgb(201, 201, 201); box-shadow: white 0px 1px 0px i=
+nset; color: rgb(53, 53, 53); background: linear-gradient(rgb(246, 246, 246=
+) 50%, rgb(224, 224, 224)); }
+
+.cancel:hover, .cancel:focus { border-color: rgb(196, 196, 196); background=
+: linear-gradient(rgb(241, 241, 241) 50%, rgb(219, 219, 219)); }
+
+.cancel:focus { box-shadow: rgba(0, 209, 248, 0.701961) 0px 0px 2px; outlin=
+e: none; }
+
+.cancel:active, .working.cancel { background: linear-gradient(rgb(219, 219,=
+ 219), rgb(238, 238, 238) 50%); }
+
+.confirm { border-color: rgb(65, 104, 10); box-shadow: rgba(255, 255, 255, =
+0.2) 0px 1px 0px inset; color: rgb(251, 251, 250); background: linear-gradi=
+ent(rgb(116, 131, 19) 50%, rgb(93, 109, 12)); }
+
+.confirm:hover, .confirm:focus { background: linear-gradient(rgb(112, 127, =
+18) 50%, rgb(85, 100, 11)); }
+
+.confirm:active, .working.confirm { background: linear-gradient(rgb(93, 109=
+, 12), rgb(112, 127, 18) 40%); }
+
+body { font-family: Palatino, Georgia, 'Times New Roman', serif; -webkit-fo=
+nt-smoothing: antialiased; overflow: hidden; position: relative; text-align=
+: center; }
+
+.indicator { box-shadow: rgba(255, 255, 255, 0.8) 0px 0px 1px inset, rgba(0=
+, 0, 0, 0.6) 0px 3px 5px; border-width: 0px 1px 1px; border-right-style: so=
+lid; border-bottom-style: solid; border-left-style: solid; border-right-col=
+or: rgba(0, 0, 0, 0.901961); border-bottom-color: rgba(0, 0, 0, 0.901961); =
+border-left-color: rgba(0, 0, 0, 0.901961); border-radius: 0px 0px 6px 6px;=
+ box-sizing: border-box; color: rgb(241, 241, 241); height: 110px; margin: =
+0px auto; opacity: 1; position: relative; top: 0px; transition-property: to=
+p, width, height; transition-duration: 0.1s; width: 140px; background-color=
+: rgba(0, 0, 0, 0.8); }
+
+.indicator.hidden { display: block; top: -10em; }
+
+.indicator[data-action=3D"rootUrlWarning"], .indicator[data-action=3D"error=
+"] { height: 260px; width: 310px; }
+
+.indicator[data-action=3D"rootUrlWarning"].hidden, .indicator[data-action=
+=3D"error"].hidden { top: -18em; }
+
+.indicator > div:not(.loader) { box-sizing: border-box; display: block; hei=
+ght: 100%; opacity: 0; padding-top: 0.8em; position: absolute; top: 0px; tr=
+ansition-property: opacity; transition-duration: 0.2s; width: 100%; z-index=
+: 1; }
+
+.indicator .blacklist-error { padding-top: 1.6em; }
+
+.indicator .timeout-error { padding-top: 0.7em; }
+
+.indicator[data-action=3D"readNow"] .read-now, .indicator[data-action=3D"re=
+adLater"] .read-later, .indicator[data-action=3D"sendToKindle"] .send-to-ki=
+ndle, .indicator[data-action=3D"rootUrlWarning"] .root-url, .indicator[data=
+-action=3D"error"] .error-msg { opacity: 1; z-index: 2; }
+
+.indicator.ready .working, .indicator.ready .loader, .indicator[data-action=
+=3D"error"] .working, .indicator[data-action=3D"error"] .loader, .indicator=
+[data-action=3D"rootUrlWarning"] .loader, .indicator .ready, .indicator .bl=
+acklist-error, .indicator .timeout-error { display: none; }
+
+.indicator[data-status=3D"blacklisted"] .blacklist-error { display: block; =
+z-index: 10; }
+
+.indicator[data-status=3D"blacklisted"] div.standard-error { display: none;=
+ z-index: 1; }
+
+.indicator[data-status=3D"blacklisted"] .timeout-error { display: none; z-i=
+ndex: 2; }
+
+.indicator[data-status=3D"timeout"] .timeout-error { display: block; z-inde=
+x: 10; }
+
+.indicator[data-status=3D"timeout"] div.standard-error { display: none; z-i=
+ndex: 1; }
+
+.indicator[data-status=3D"timeout"] .blacklist-error { display: none; z-ind=
+ex: 2; }
+
+.indicator.ready .ready { display: block; }
+
+.indicator h1 { font-size: 0.9em; font-weight: normal; letter-spacing: 0.1e=
+m; line-height: 1.3; padding: 60px 0.1em 0px; text-transform: uppercase; te=
+xt-shadow: black 0px 1px 0px; background: url("../images/indicator-couch@2x=
+.png") 50% 0% / 70px 52px no-repeat transparent; }
+
+.indicator p { color: rgb(230, 230, 230); font-size: 0.9em; line-height: 1.=
+5; padding: 0.5em 0px; }
+
+.loader { border-radius: 2px; bottom: 6px; box-shadow: rgba(255, 255, 255, =
+0.0980392) 0px 1px 0px; height: 3px; left: 6px; margin: 0px auto; overflow:=
+ hidden; position: absolute; width: 126px; background-color: rgba(0, 0, 0, =
+0.901961); }
+
+.loader b { border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 0px =
+inset; display: block; left: -120%; height: 100%; position: absolute; width=
+: 100%; background: -webkit-linear-gradient(left, rgba(235, 235, 235, 0), r=
+gb(235, 235, 235)); }
+
+.loader.animate b { animation: loader 1s infinite; }
+
+@-webkit-keyframes loader {=20
+  100% { left: 120%; }
+}
+
+@keyframes loader {=20
+  100% { left: 120%; }
+}
+
+.root-url, .error-msg { padding: 0.9em; }
+
+.root-url h1, .error-msg h1 { border-bottom-width: 1px; border-bottom-style=
+: solid; border-bottom-color: rgba(241, 241, 241, 0.4); margin-bottom: 0.4e=
+m; padding-bottom: 0.5em; }
+
+.controls { text-align: center; }
+
+.controls button { border: 0px; display: inline-block; font-family: Palatin=
+o, Georgia, 'Times New Roman', serif; font-size: 0.8em; }
+
+.confirm { width: 70%; }
+
+.cancel { width: 28%; }
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252">
+    <title>Vomnibar</title>
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"chrome-extension://d=
+bepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium.css">
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"chrome-extension://d=
+bepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.css">
+  </head>
+  <body>
+    <div id=3D"vomnibar" class=3D"vimiumReset">
+      <div class=3D"vimiumReset vomnibarSearchArea">
+        <input id=3D"vomnibarInput" type=3D"text" class=3D"vimiumReset">
+      </div>
+      <ul class=3D"vimiumReset"></ul>
+    </div>
+ =20
+
+</body></html>
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium.css
+
+@charset "windows-1252";
+
+.vimiumreset, div.vimiumreset, span.vimiumreset, table.vimiumreset, a.vimiu=
+mreset, a:visited.vimiumreset, a:link.vimiumreset, a:hover.vimiumreset, td.=
+vimiumreset, tr.vimiumreset { border: none; bottom: auto; box-shadow: none;=
+ color: black; cursor: auto; display: inline; float: none; font-family: 'He=
+lvetica Neue', Helvetica, Arial, sans-serif; font-size: inherit; font-style=
+: normal; font-variant: normal; font-weight: normal; height: auto; left: au=
+to; letter-spacing: 0px; line-height: 100%; margin: 0px; max-height: none; =
+max-width: none; min-height: 0px; min-width: 0px; opacity: 1; padding: 0px;=
+ position: static; right: auto; text-align: left; text-decoration: none; te=
+xt-indent: 0px; text-shadow: none; text-transform: none; top: auto; vertica=
+l-align: baseline; white-space: normal; width: auto; z-index: 2147483647; b=
+ackground: none; }
+
+div.internalvimiumhintmarker { position: absolute; display: block; top: -1p=
+x; left: -1px; white-space: nowrap; overflow: hidden; font-size: 11px; padd=
+ing: 1px 3px 0px; border: 1px solid rgb(195, 138, 34); border-radius: 3px; =
+box-shadow: rgba(0, 0, 0, 0.298039) 0px 3px 7px 0px; background: -webkit-gr=
+adient(linear, 0% 0%, 0% 100%, from(rgb(255, 247, 133)), to(rgb(255, 197, 6=
+6))); }
+
+div.internalvimiumhintmarker span { color: rgb(48, 37, 5); font-family: Hel=
+vetica, Arial, sans-serif; font-weight: bold; font-size: 11px; text-shadow:=
+ rgba(255, 255, 255, 0.6) 0px 1px 0px; }
+
+div.internalvimiumhintmarker > .matchingcharacter { color: rgb(212, 172, 58=
+); }
+
+div > .vimiumactivehintmarker span { color: rgb(160, 117, 85) !important; }
+
+div.internalvimiuminputhint { position: absolute; display: block; border: 1=
+px solid rgb(195, 138, 34); pointer-events: none; background-color: rgba(25=
+5, 247, 133, 0.298039); }
+
+div.internalvimiumselectedinputhint { border: 1px solid rgb(153, 51, 51) !i=
+mportant; background-color: rgba(255, 102, 102, 0.298039); }
+
+div.internalvimiumselectedinputhint span { color: white !important; }
+
+div.vimiumhighlightedframe { position: fixed; top: 0px; left: 0px; width: 1=
+00%; height: 100%; padding: 0px; margin: 0px; border: 5px solid yellow; box=
+-sizing: border-box; pointer-events: none; }
+
+div#vimiumhelpdialog { opacity: 0.92; position: fixed; border: 2px solid rg=
+b(179, 179, 179); border-radius: 6px; padding: 8px 12px; width: 640px; max-=
+height: 85%; left: 50%; margin-left: -320px; top: 50px; box-shadow: rgba(0,=
+ 0, 0, 0.4) 0px 0px 6px; overflow-y: auto; z-index: 2147483647; background-=
+color: rgb(238, 238, 238); }
+
+div#vimiumhelpdialog a { color: blue; }
+
+div#vimiumtitle, div#vimiumtitle span, div#vimiumtitle * { font-size: 20px;=
+ }
+
+#vimiumtitle { display: block; line-height: 130%; }
+
+div.vimiumcolumn { width: 50%; float: left; font-size: 11px; line-height: 1=
+30%; }
+
+div.vimiumcolumn tr { display: table-row; }
+
+div.vimiumcolumn td { display: table-cell; font-size: 11px; line-height: 13=
+0%; }
+
+div.vimiumcolumn table, div.vimiumcolumn td, div.vimiumcolumn tr { padding:=
+ 0px; margin: 0px; }
+
+div.vimiumcolumn table { width: 100%; table-layout: auto; }
+
+div.vimiumcolumn td { vertical-align: top; padding: 1px; }
+
+div#vimiumhelpdialog div.vimiumcolumn tr > td:first-of-type { text-align: r=
+ight; font-weight: bold; color: rgb(47, 80, 142); white-space: nowrap; }
+
+div#vimiumhelpdialog div.vimiumcolumn tr > td:nth-of-type(3) { width: 100%;=
+ }
+
+div#vimiumhelpdialog div.vimiumdivider { display: block; height: 1px; width=
+: 92%; margin: 10px auto; background-color: rgb(154, 154, 154); }
+
+div#vimiumhelpdialog td.vimiumhelpsectiontitle { font-weight: bold; padding=
+-top: 3px; }
+
+div#vimiumhelpdialog div.commandname { font-family: 'courier new'; }
+
+div#vimiumhelpdialog div.advanced { display: none; }
+
+div#vimiumhelpdialog div.advanced td:nth-of-type(3) { color: rgb(85, 85, 85=
+); }
+
+div#vimiumhelpdialog a.closebutton { position: absolute; right: 7px; top: 5=
+px; font-family: 'courier new'; font-weight: bold; color: rgb(85, 85, 85); =
+text-decoration: none; padding-left: 10px; font-size: 20px; }
+
+div#vimiumhelpdialog a { text-decoration: underline; }
+
+div#vimiumhelpdialog .wikipage, div#vimiumhelpdialog .optionspage { positio=
+n: absolute; display: block; font-size: 11px; line-height: 130%; top: 6px; =
+}
+
+div#vimiumhelpdialog .optionspage { right: 40px; }
+
+div#vimiumhelpdialog .wikipage { right: 83px; }
+
+div#vimiumhelpdialog a.closebutton:hover { color: black; -webkit-user-selec=
+t: none; }
+
+div#vimiumhelpdialogfooter { display: block; position: relative; }
+
+div#vimiumhelpdialogfooter * { font-size: 10px; }
+
+div#vimiumhelpdialogfooter .toggleadvancedcommands { position: absolute; ri=
+ght: 2px; top: -34px; }
+
+div.vimiumhud { display: block; position: fixed; bottom: 0px; right: 0px; c=
+olor: black; height: auto; min-height: 13px; width: auto; max-width: 400px;=
+ min-width: 150px; text-align: left; padding: 3px 3px 2px; margin: 0px; bor=
+der: 1px solid rgb(179, 179, 179); border-radius: 4px 4px 0px 0px; font-fam=
+ily: 'Lucida Grande', Arial, Sans; font-size: 12px; text-shadow: rgb(255, 2=
+55, 255) 0px 1px 2px; line-height: 1; background-color: rgb(235, 235, 235);=
+ }
+
+iframe.vimiumhudframe { display: block; position: fixed; bottom: 0px; right=
+: 150px; height: 20px; min-height: 20px; width: 450px; min-width: 150px; pa=
+dding: 0px; margin: 0px; border: none; z-index: 2147483646; opacity: 0; bac=
+kground: none; }
+
+div.vimiumhud span#hud-find-input, div.vimiumhud span#hud-match-count { dis=
+play: inline; outline: none; white-space: nowrap; overflow-y: hidden; }
+
+div.vimiumhud span#hud-find-input br { display: none; }
+
+div.vimiumhud span#hud-find-input * { display: inline; white-space: nowrap;=
+ }
+
+body.vimiumfindmode ::selection { background: rgb(255, 150, 50); }
+
+iframe.vomnibarframe { padding: 0px; overflow: hidden; display: block; posi=
+tion: fixed; width: calc(80% + 20px); min-width: 400px; height: calc(100% -=
+ 70px); top: 70px; left: 50%; margin: 0px 0px 0px -40%; border: none; font-=
+family: sans-serif; z-index: 2147483645; background-color: transparent; }
+
+div#vimiumflash { box-shadow: rgb(65, 131, 196) 0px 0px 4px 2px; padding: 1=
+px; position: absolute; z-index: 2147483647; background-color: transparent;=
+ }
+
+iframe.vimiumuicomponenthidden { display: none; }
+
+iframe.vimiumuicomponentvisible { display: block; }
+
+iframe.vimiumuicomponentreactivated { border: 5px solid yellow; }
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.css
+
+@charset "windows-1252";
+
+#vomnibar ol, #vomnibar ul { list-style: none; display: none; }
+
+#vomnibar { display: block; position: fixed; width: calc(100% - 20px); top:=
+ 8px; left: 8px; font-family: sans-serif; text-align: left; border-radius: =
+4px; box-shadow: rgba(0, 0, 0, 0.8) 0px 2px 10px; border: 1px solid rgb(170=
+, 170, 170); z-index: 2147483646; background: rgb(241, 241, 241); }
+
+#vomnibar input { color: rgb(0, 0, 0); font-family: 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; font-size: 20px; height: 34px; margin-bottom: 0px;=
+ padding: 4px; border-radius: 3px; border: 1px solid rgb(232, 232, 232); bo=
+x-shadow: rgb(68, 68, 68) 0px 0px 1px; width: 100%; outline: none; box-sizi=
+ng: border-box; background-color: white; }
+
+#vomnibar .vomnibarsearcharea { display: block; padding: 10px; border-radiu=
+s: 4px 4px 0px 0px; border-bottom-width: 1px; border-bottom-style: solid; b=
+order-bottom-color: rgb(198, 201, 206); background-color: rgb(241, 241, 241=
+); }
+
+#vomnibar ul { border-radius: 0px 0px 4px 4px; list-style: none; padding: 0=
+px 0px 10px; background-color: white; }
+
+#vomnibar li { border-bottom-width: 1px; border-bottom-style: solid; border=
+-bottom-color: rgb(221, 221, 221); line-height: 1.1em; padding: 7px 10px; f=
+ont-size: 16px; color: black; position: relative; display: list-item; margi=
+n: auto; }
+
+#vomnibar li:last-of-type { border-bottom-style: none; }
+
+#vomnibar li .vomnibartophalf, #vomnibar li .vomnibarbottomhalf { display: =
+block; overflow: hidden; }
+
+#vomnibar li .vomnibarbottomhalf { font-size: 15px; margin-top: 3px; paddin=
+g: 2px 0px; }
+
+#vomnibar li .vomnibaricon { padding-left: 20px; background-size: 16px; bac=
+kground-position-y: 50%; background-repeat: no-repeat; }
+
+#vomnibar li .vomnibarsource { color: rgb(119, 119, 119); margin-right: 4px=
+; }
+
+#vomnibar li .vomnibarrelevancy { position: absolute; right: 0px; top: 0px;=
+ padding: 5px; color: black; font-family: monospace; width: 100px; overflow=
+: hidden; background-color: white; }
+
+#vomnibar li .vomnibarurl { white-space: nowrap; color: rgb(34, 70, 132); }
+
+#vomnibar li .vomnibarmatch { font-weight: bold; color: black; }
+
+#vomnibar li em, #vomnibar li .vomnibartitle { color: black; margin-left: 4=
+px; font-weight: normal; }
+
+#vomnibar li em { font-style: italic; }
+
+#vomnibar li em .vomnibarmatch, #vomnibar li .vomnibartitle .vomnibarmatch =
+{ color: rgb(51, 51, 51); }
+
+#vomnibar li.vomnibarselected { font-weight: normal; background-color: rgb(=
+187, 206, 233); }
+
+#vomnibarinput::selection { background-color: rgb(230, 238, 251); }
+
+.vomnibarinserttext { }
+
+.vomnibarnoinserttext { visibility: hidden; }
+------=_NextPart_000_ACF3_E68062CE.A8399414
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/hud.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+    <title>HUD</title>
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"chrome-extension://d=
+bepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium.css">
+   =20
+   =20
+   =20
+   =20
+   =20
+  </head>
+  <body>
+    <div class=3D"vimiumReset vimiumHUD vimiumUIComponentHidden" id=3D"hud"=
+></div>
+ =20
+
+</body></html>
+------=_NextPart_000_ACF3_E68062CE.A8399414--
